@@ -1,0 +1,53 @@
+[{
+	"link" : "/index",
+	"name" : "首页",
+	"havesub" : false
+},{
+	"link" : "",
+	"name" : "产品中心",
+	"havesub" : true,
+	"sub" : [{
+				"subName" : "教学资源1",
+				"subLink" : "jxzy1"
+			},{
+				"subName" : "教学资源2",
+				"subLink" : "jxzy2"
+			}]
+},{
+	"link" : "/catetory",
+	"name" : "解决方案",
+	"havesub" : false
+},{
+	"link" : "zxgk",
+	"name" : "资源下载",
+	"havesub" : true,
+	"sub" : [{
+				"subName" : "中心概况1",
+				"subLink" : "zxgk1"
+			},{
+				"subName" : "中心概况2",
+				"subLink" : "zxgk2"
+			},{
+				"subName" : "中心概况3",
+				"subLink" : "zxgk3"
+			}]
+},{
+	"link" : "/article",
+	"name" : "资讯",
+	"havsub" : false
+},{
+	"link" : "sbhj",
+	"name" : "关于TEE",
+	"havesub" : true,
+	"sub" : [{
+				"subName" : "设备环境1",
+				"subLink" : "sbhj1"
+			},{
+				"subName" : "设备环境2",
+				"subLink" : "sbhj2"
+			}]
+},{
+	"link" : "yxgl",
+	"name" : "开发者社区",
+	"havesub" : false
+}]

@@ -1,0 +1,526 @@
+.centerBox p:nth-child(2) {
+  font-size: 24px;
+  font-family: 'PingFangSC-Medium';
+  color: rgba(255, 255, 255, 1);
+  margin-bottom: 25px;
+  line-height: 30px;
+}
+.product_msg p:nth-child(2) {
+  font-size: 22px;
+  line-height: 26px;
+  color: rgba(102, 102, 102, 1);
+  margin-bottom: 35px;
+}
+.section_title {
+  font-size: 30px;
+  font-family: 'PingFangSC-Semibold';
+  color: rgba(33, 33, 33, 1);
+  text-align: center;
+  margin-bottom: 20px;
+}
+.centerBox p:nth-child(3) {
+  font-size: 18px;
+  color: rgba(201, 201, 201, 1);
+  margin-bottom: 20px;
+  line-height: 24px;
+}
+.product_msg p:nth-child(3) {
+  font-size: 16px;
+  color: rgba(153, 153, 153, 1);
+  line-height: 22px;
+}
+.tilte_desc {
+  font-size: 16px;
+  color: rgba(153, 153, 153, 1);
+  text-align: center;
+  width: 80%;
+  margin: 0 auto;
+  line-height: 22px;
+  margin-bottom: 30px;
+}
+.feature_msg p:nth-child(2) {
+  font-size: 14px;
+  line-height: 20px;
+  font-family: 'PingFangSC-Medium';
+  color: rgba(132, 132, 132, 1);
+}
+.section00 {
+  position: relative;
+  padding:0;
+  height: 77px;
+  width: 100%;
+  background: url(../assets/images/developer/download1_00.png) no-repeat top center;
+  background-size: cover;
+}
+.section01 {
+  position: relative;
+  padding:0;
+  height: 350px;
+  width: 100%;
+  background: url(../assets/images/developer/img/download1_01.png) no-repeat top center;
+  background-size: cover;
+}
+.section02 {
+  position: relative;
+  width: 100%;
+    overflow: hidden;
+    justify-content: center;
+  /*background: url(../assets/images/developer/download1_02.png) no-repeat top center;*/
+  /*background-size: cover;*/
+}
+.section03 {
+  position: relative;
+  height: 800px;
+  width: 1240px;
+  padding: 0;
+    margin: 0 auto;
+  background: url(../assets/images/developer/img/download1_03_s.png) no-repeat top center;
+  background-size: cover;
+}
+.section04 {
+  position: relative;
+  height: 522px;
+  width: 100%;
+  background: url(../assets/images/developer/download1_04.png) no-repeat top center;
+  background-size: cover;
+}
+.section05 {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  padding:0;
+    overflow: hidden;
+}
+.section06 {
+  position: relative;
+  height: 154px;
+  width: 100%;
+  background: url(../assets/images/developer/download1_06.png) no-repeat top center;
+  background-size: cover;
+}
+
+.developBtnBox {
+  position: absolute;
+  width: 55%;
+  top: 68%;
+  left: 49%;
+  z-index: 150;
+  transform: translateY(-50%);
+  transform: -webkit-translateY(-50%);
+}
+
+.developHeadBtn {
+  display: block;
+  width: 180px;
+  height: 50px;
+  float:left;
+  margin-left:21px;
+  line-height: 50px;
+  font-size: 20px;
+  color: rgba(255, 255, 255, 1);
+  background: rgba(78, 134, 228, 1);
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+a.developHeadBtn:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+ .download5{
+        width: 100%;
+  }
+  .download5-xs{
+        width: 100%;
+  }
+  .testShow{
+      width: 60%;
+      height: 300px;
+      position: absolute;
+      top: 28%;
+      left: 49%;
+      color: #fff;
+  }
+  .testShow_tittle{
+        font-size: 32px;
+      margin-bottom: 68px;
+  }
+  .testShow_item1, .testShow_item2{
+      font-size: 19px;
+      color: #CDDBE7;
+  }
+.testShow_item2{
+    margin-top: 10px;
+}
+.testShow_tittle, .testShow_item1, .testShow_item2{
+    margin-left: 13px;
+}
+.section01_img{
+    position: absolute;
+    top: 24%;
+    left: 19%;
+}
+.section02{
+    display: flex;
+    margin:0 0 0 0;
+    padding-top:80px;
+    padding-bottom: 20px;
+}
+.section02_ul{
+    overflow: hidden;
+}
+.section02_ul li{
+    width: 179px;
+    height: 206px;
+    float: left;
+    margin-left: 71px;
+    position: relative;
+}
+.section02_ul li span{
+    position: absolute;
+    bottom: 62px;
+}
+.section02_ul_li1{
+    left: 43px;
+}
+.section02_ul_li2, .section02_ul_li3{
+    left: 51px;
+}
+.section02_ul_li4{
+    left: 37px;
+}
+.section02_ul_li5{
+    left: 65px;
+}
+.section02_title{
+    position: absolute;
+    left: 49%;
+    top: 28px;
+    font-size: 20px;
+}
+.section03_tittle{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction:column;
+    padding-bottom: 20px;
+}
+.section03_tittle_item1{
+    font-size: 25px;
+    color: #333;
+    margin-bottom: 20px;
+}
+.section03_tittle_item2{
+    font-size: 18px;
+    color: #999999;
+}
+.setion03_slideshow{
+    width: 400px;
+    height: 200px;
+    position: absolute;
+    bottom: 20px;
+    left: 38%;
+    color: #fff;
+}
+.setion03_slideshow_ul{
+    width: 300px;
+}
+.setion03_slideshow_ul li{
+    width: 30px;
+    height: 10px;
+    background-color: RGBA(255,255,255,.3);
+    margin-left: 10px;
+    float: left;
+}
+.ul_1{
+    background-color: #fff !important;
+}
+.setion03_slideshow_p1{
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.setion03_slideshow_p2{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.setion03_slideshow_ul{
+    margin-left: 115px;
+
+}
+.download, .downdocument, .download2, .downdocument2{
+    width: 3%;
+    height: 10%;
+    position: absolute;
+    opacity: 0.5;
+    /*background-color: #2e6da4;*/
+}
+.download{
+    top: 31%;
+    right: 23%;
+    cursor: pointer;
+}
+.download2{
+    top: 53%;
+    right: 23%;
+    cursor: pointer;
+}
+.downdocument2{
+
+    top: 53%;
+    right: 19%;
+    cursor: pointer;
+}
+.downdocument{
+    top: 31%;
+    right: 19%;
+    cursor: pointer;
+}
+.section05{
+    background-color: #f2f2f2;
+}
+.download5{
+    color: #000;
+}
+.download5_begin{
+    margin-top: 30px;
+    font-size: 22px;
+    line-height: 22px;
+    text-align: center;
+}
+.download5_use{
+    margin-top: 15px;
+    font-size: 16px;
+    line-height: 16px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.download5_point{
+    font-size: 22px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    padding-left: 50px;
+}
+.download5_item{
+    width: 1220px;
+    margin: 0 auto;
+}
+.download5_item_i{
+    width: 100%;
+    height: 130px;
+    background-color: #fff;
+    margin-bottom: 80px;
+}
+.download5_item_i > div{
+    float: left;
+}
+.item_i_head{
+    width: 135px;
+    height: 100%;
+    background:url(../assets/images/developer/img/sdkPoin.png) no-repeat center center;
+}
+.item_i_say{
+    height: 100%;
+    width: 60%;
+    margin-left: 50px;
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    line-height: 25px;
+}
+.item_i_say_v{
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 18px;
+}
+.loadBtn{
+    float: right !important;
+    margin-top: 30px;
+    margin-right: 36px;
+}
+.downloadBtn, .downdocumentBtn, .downGitHub{
+    display: inline-block;
+    width: 50px;
+    height: 70px;
+    cursor: pointer;
+}
+.downloadBtn{
+    background:url(../assets/images/developer/img/loadBtn.png) no-repeat center center;
+}
+.downdocumentBtn{
+    background:url(../assets/images/developer/img/documentLoad.png) no-repeat center center;
+}
+.downGitHub{
+    background:url(../static/img/icon/github.png) no-repeat center center;
+}
+@media screen and (max-width: 800px) {
+    body{
+        overflow-x: hidden;
+        background-color: #f2f2f2;
+    }
+    .section{
+        padding: 3px 0;
+    }
+    .section01, .section00, .section02, .section03, .section04, .section05{
+        background-size: 100% 100%;
+
+    }
+    .collapse{
+        /*display: block !important;*/
+        /*position: absolute;*/
+        /*right: 0;*/
+    }
+    .nav>li{
+        /*width: 57px;*/
+        /*background-color: inherit;*/
+    }
+    .developBtnBox {
+        left: 26%;
+        bottom: 30%;
+    }
+    .developHeadBtn{
+        margin-top: 10px;
+    }
+    .section00{
+        background:url(../assets/images/developer/download1_00.png) no-repeat top center;
+        height:50px;
+        width: 100%;
+        padding:0;
+        background-size: cover;
+    }
+    .section01{
+        background:url(../assets/images/developer/download1_01_xs.png) no-repeat top center;
+        height:400px;
+        width: 100%;
+        padding:0;
+        background-size: cover;
+    }
+    .section02{
+        height:100%;
+        width: 100%;
+    }
+    .section03{
+        background:url(../assets/images/developer/download1_03_xs.png) no-repeat top center;
+        height:310px;
+        width: 100%;
+        padding:0;
+        background-size: cover;
+    }
+    .section04{
+        background:url(../assets/images/developer/download1_04_xs.png) no-repeat top center;
+        height:505px;
+        width: 100%;
+        padding:0;
+        background-size: cover;
+    }
+    .section05{
+        width: 100%;
+        padding:0;
+        margin: 30px 0;
+        margin-bottom: 0;
+    }
+    .section06{
+        background:url(../assets/images/developer/download1_06_xs.png) no-repeat top center;
+        height:35px;
+        width: 100%;
+        padding:0;
+        background-size: cover;
+    }
+    .section02_ul li{
+        width: 89px;
+        height: 103px;
+        margin-left: 26px;
+        margin-top:20px;
+    }
+    .section02_ul li img{
+        width: 100%;
+        height: 100%;
+    }
+    .section02_ul li span{
+        bottom: 26px;
+        font-size: 12px;
+    }
+    .section02_ul_li1{
+        left: 9px;
+    }
+    .section02_ul_li2, .section02_ul_li3{
+        left: 16px;
+    }
+    .section02_ul_li4{
+        left: 4px;
+    }
+    .section02_ul_li5{
+        left: 26px;
+    }
+    .download{
+        top: 29%;
+        right: 17%;
+        cursor: pointer;
+    }
+    .downdocument{
+        top: 29%;
+        right: 7%;
+        cursor: pointer;
+    }
+    .section02_title{
+        left: 36%;
+    }
+    .download5_begin{
+        margin-top: 18px;
+        font-size: 17px;
+        line-height: 17px;
+    }
+    .download5_use{
+        font-size: 10px;
+    }
+    .download5_point{
+        font-size: 11px;
+        margin-bottom: 12px;
+        padding-left: 12px;
+    }
+    .download5_item{
+        width: 100%;
+    }
+    .download5_item_i{
+        height: 132px;
+    }
+    .item_i_head{
+        width: 40px;
+        height: 40px;
+    }
+    .item_i_head{
+        background-size: cover;
+        margin: 45px 0 0 18px;
+    }
+    .item_i_say{
+        font-size: 10px;
+        width: 60%;
+        margin-left: 10px;
+        line-height: 22px;
+    }
+    .item_i_say_v{
+        font-size: 14px;
+        margin-bottom: 5px;
+    }
+    .downloadBtn, .downdocumentBtn, .downGitHub{
+        width: 30px;
+        height: 40px;
+        background-size: 70%;
+    }
+    .loadBtn{
+        margin-top: 5px;
+        margin-right: 0px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 70px;
+    }
+    .download5_use{
+        margin-bottom: 80px;
+    }
+    .download5_item_i{
+        margin-bottom: 12px;
+    }
+}
+
